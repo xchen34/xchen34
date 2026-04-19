@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Leonie.
 
-<!--
-**xchen34/xchen34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently transitioning into software development after completing the common core at 42 Paris.
 
-Here are some ideas to get you started:
+## About me
+- Background in multilingual and customer-facing roles
+- Learning through projects in C, C++, Python, and web development(JavaScript, React, Node.js)
+- Currently looking for a software development internship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+- [Project 1](https://github.com/yourusername/project1) – short description
+- [Project 2](https://github.com/yourusername/project2) – short description
+- [Project 3](https://github.com/yourusername/project3) – short description
+
+## Interests
+I’m especially interested in building technology that can improve everyday life, particularly in areas such as healthcare, accessibility, elderly care, and animal welfare.
+
+## Connect
+- LinkedIn: www.linkedin.com/in/leoniexiaochan-chen
+- Email: leochen@student.42.fr
