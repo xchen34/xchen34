@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color1=ff7e5f&color2=feb47b&height=180&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text"/>
 </p>
 
 <h1 align="center">Hi, I'm Leonie Chen</h1>
