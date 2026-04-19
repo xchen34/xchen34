@@ -22,14 +22,21 @@ Before this transition, I worked in multilingual and customer-facing roles, whic
 
 ## Projects
 
-- **minishell**  
-  Building a Unix shell in C, focusing on parsing, processes, and file descriptors  
 
-- **cpp modules**  
-  Exploring object-oriented programming concepts in C++  
+- **[mern_jotify](https://github.com/xchen34/mern_jotify)**  
+  A full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js)
 
-- **web project**  
-  A full-stack application built as part of my learning journey  
+- **[transcendence](https://github.com/xchen34/transcendence)**  
+  A full-stack web project involving real-time features and collaborative development
+
+- **[matcha](https://github.com/xchen34/matcha)** *(in progress)*  
+  A web application project focused on user interaction and backend logic
+
+- **[minishell](https://github.com/xchen34/minishell)**  
+  A Unix shell implementation in C, focusing on parsing, process management, and file descriptors
+
+- **[dslr](https://github.com/xchen34/dslr)**  
+  A data analysis project using Python, focusing on data processing and visualization
 
 ---
 
