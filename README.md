@@ -32,11 +32,13 @@ Before this transition, I worked in multilingual and customer-facing roles, whic
 - **[matcha](https://github.com/xchen34/matcha)** *(in progress)*  
   A web application project focused on user interaction and backend logic
 
+- **[dslr](https://github.com/xchen34/dslr)**  
+  A data analysis project using Python, focusing on data processing and visualization
+
 - **[minishell](https://github.com/xchen34/minishell)**  
   A Unix shell implementation in C, focusing on parsing, process management, and file descriptors
 
-- **[dslr](https://github.com/xchen34/dslr)**  
-  A data analysis project using Python, focusing on data processing and visualization
+
 
 ---
 
