@@ -2,62 +2,81 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color1=ff7e5f&color2=feb47b&height=180&section=header"/>
 </p>
 
-<h1 align="center">Hi, I'm Leonie Chen</h1>
+<h1 align="center">Hi, I'm Léonie 👋</h1>
 
 <p align="center">
-  Software development student @ 42 Paris<br/>
-  Currently looking for a software development internship
+  Software developer in training @ 42 Paris<br/>
+  Backend-leaning · interested in useful technology · currently looking for an internship
 </p>
----
-
-## About
-
-I’m building my path in software development through hands-on projects in C, C++, Python, and web development(JavaScript, React, Node.js).
-
-My learning process has been gradual — writing code, debugging, getting stuck, and figuring things out step by step. I’m still working on becoming more confident and independent in problem-solving.
-
-Before this transition, I worked in multilingual and customer-facing roles, which gave me exposure to real-world situations and different types of people.
 
 ---
 
-## Projects
+## A little about me
 
+I came to software development after working in rather different worlds — education, retail, travel, and multilingual customer-facing roles.
 
-- **[mern_jotify](https://github.com/xchen34/mern_jotify)**  
-  A full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js)
+At 42 Paris, I learned programming through projects in C, C++, JavaScript, web development, networking, and databases.
 
-- **[transcendence](https://github.com/xchen34/transcendence)**  
-  A full-stack web project involving real-time features and collaborative development
+I’m still very much learning how things work under the hood, but I’ve become increasingly interested in building software around real problems rather than technology for its own sake.
 
-- **[matcha](https://github.com/xchen34/matcha)** *(in progress)*  
-  A web application project focused on user interaction and backend logic
+I tend to be more interested in **what happens behind the button than in making the button glow**.
 
-- **[dslr](https://github.com/xchen34/dslr)**  
-  A data analysis project using Python, focusing on data processing and visualization
-
-- **[minishell](https://github.com/xchen34/minishell)**  
-  A Unix shell implementation in C, focusing on parsing, process management, and file descriptors
-
-
+Things I care about: useful tools, clear workflows, accessibility, healthcare, ageing, animal welfare, and technology that makes somebody’s everyday life a little easier.
 
 ---
 
-## Interests
+## Things I've built
 
-I’m particularly interested in work that has a tangible impact on everyday life.
+### 🌱 [Reach](https://github.com/xchen34/reach)
 
-Areas I care about include healthcare, accessibility, elderly care, and animal welfare — especially where technology can help address real-world challenges.
+**Next.js · FastAPI · PostgreSQL**
+
+A public-interest coordination tool for missing persons and pets, inspired by volunteer rescue workflows in Hong Kong.
+
+It brings together form submissions, staff case review, case tracking, and a public information board — an experiment in using software for something I genuinely care about.
+
+### 💬 [Matcha](https://github.com/xchen34/matcha)
+
+**React · Express · PostgreSQL · Socket.IO**
+
+A 2-person school project built at 42: a dating web application with profiles, matching, search, real-time chat, notifications, and online presence.
+
+### 📝 [GoGoJot](https://github.com/xchen34/mern_GoGoJot)
+
+**React · Express · MongoDB**
+
+My first full-stack learning project, which started from a tutorial and gradually grew into something much larger.
+
+It now includes authentication, guest mode, Google sign-in, access/refresh tokens, and a collection of features I added while learning how a web application fits together.
+
+### 🐚 [Minishell](https://github.com/xchen34/minishell)
+
+**C · Unix**
+
+A small Unix shell built in C — parsing commands, processes, pipes, redirections, signals, and file descriptors.
+
+One of those projects that makes a normal terminal look suspiciously magical afterwards.
+
+### 📊 [DSLR](https://github.com/xchen34/dslr)
+
+**Python · Data Analysis**
+
+A data-analysis project focused on exploring, processing, and visualizing datasets in Python.
 
 ---
 
-## Currently
+## What I'm looking for
 
-Looking for a software development internship to gain practical experience and continue learning step by step.
+I'm currently looking for a **software development internship**, with a growing preference for backend development, APIs, automation, and practical problem-solving.
+
+I’m especially drawn to teams building things that have a clear reason to exist — whether in healthcare, accessibility, public-interest services, animal welfare, or simply tools that solve an annoying real-world problem well.
+
+Still learning a lot. Hopefully while building things worth using.
 
 ---
 
-## Connect
+## Find me
 
-- GitHub: https://github.com/xchen34 
-- LinkedIn: www.linkedin.com/in/leoniexiaochan-chen
-- Email: leochen@student.42.fr
+* [LinkedIn](https://www.linkedin.com/in/leoniexiaochan-chen/)
+* [GitHub](https://github.com/xchen34)
+* **Email:** [leochen@student.42.fr](mailto:leochen@student.42.fr)
