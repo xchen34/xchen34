@@ -35,7 +35,7 @@ A public-interest coordination tool for missing persons and pets, inspired by vo
 
 It brings together form submissions, staff case review, case tracking, and a public information board — an experiment in using software for something I genuinely care about.
 
-### 💬 [Matcha](https://github.com/xchen34/matcha)
+### 💬 [Matcha](https://github.com/xchen34/matcha_deploy)
 
 **React · Express · PostgreSQL · Socket.IO**
 
